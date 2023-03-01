@@ -16,8 +16,10 @@
 [<img align="left" alt="Ryan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ryan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ryan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [twitter]: hhttps://twitter.com/Legendary_Ace12
 [instagram]: https://www.instagram.com/legendary_ace12/
 [linkedin]: https://www.linkedin.com/in/ryan-ventura37/
+[youtube]: https://www.youtube.com/@thecomeup37
 
